@@ -3,7 +3,7 @@
 A Swift/SwiftUI iOS app that lets people connect based on **shared interests**. Users store interests, tap phones to **exchange profiles via NFC**, and optionally pin the **location** where they met on a map. Includes a lightweight account flow, profile/interest management, connection tracking, and a map view of your network.
 
 ---
-
+ 
 ## ✨ Features
 
 - **Account flow**: simple sign up / login with local persistence.
